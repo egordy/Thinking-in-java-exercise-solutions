@@ -1,2 +1,3 @@
 # Thinking-in-java-exercise-solutions
-Thinking-in-java-exercise-solutions (playground)
+Thinking in Java, 4th edition
+Exercise solutions (playground)
